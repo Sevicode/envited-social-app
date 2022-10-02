@@ -5,7 +5,7 @@ const CreateEventButton = () => {
 
   const navigate = useNavigate();
   const navigateToCreateEvent = () => {
-    navigate('/create')
+    navigate('/event')
   }
 
 

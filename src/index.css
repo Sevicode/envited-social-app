@@ -18,6 +18,8 @@ font-size: 16px;
 font-weight: 700;
 line-height: 18.4px;
 border: none;
+margin: 0 auto;
+display: block;
 }
 
 
@@ -27,9 +29,8 @@ border: none;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  height: 100vh;
   width: 100vw;
-  margin:0 auto;
+  margin:px auto;
 }
 
 .LandingPageContainer h1 {
@@ -41,6 +42,8 @@ border: none;
   color: #240D57;
   text-align: center;
   color:240D57;
+  margin-top: 94px;
+  
   
 }
 
@@ -54,6 +57,7 @@ border: none;
   top:34px;
   width: 163px;
   font-weight: 700px;
+  
 }
 
 .LandingPageContainer p {
@@ -67,6 +71,7 @@ border: none;
   line-height: 18px;
   color: #4F4F4F;
   margin: 10px auto;
+  padding-top: 25px;
 }
 
 .LandingPageContainer img {
@@ -75,6 +80,7 @@ border: none;
   top: 290px;
   left: calc(50% - 165.63px/2 + 0.32px);
   border-radius: 13.23;
+  margin-bottom:34px ;
 }
 
 .EventPageContainer {
